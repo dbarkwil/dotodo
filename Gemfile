@@ -46,3 +46,5 @@ end
 
 # Use Bootstrap
 gem 'bootstrap-sass'
+
+gem 'rails_12factor'
